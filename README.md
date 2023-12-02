@@ -26,8 +26,8 @@
 
 12. [Pagina12](https://jancossio.github.io/jcr-ts-TA33-3-Arrays_Objetos-git-281123/pages/ex12_index.html)
 
-13. [Pagina3](https://jancossio.github.io/jcr-ts-TA33-3-Arrays_Objetos-git-281123/pages/ex13_index.html)
+13. [Pagina13](https://jancossio.github.io/jcr-ts-TA33-3-Arrays_Objetos-git-281123/pages/ex13_index.html)
 
-14. [Pagina4](https://jancossio.github.io/jcr-ts-TA33-3-Arrays_Objetos-git-281123/pages/ex14_index.html)
+14. [Pagina14](https://jancossio.github.io/jcr-ts-TA33-3-Arrays_Objetos-git-281123/pages/ex14_index.html)
 
-15. [Pagina5](https://jancossio.github.io/jcr-ts-TA33-3-Arrays_Objetos-git-281123/pages/ex15_index.html)
+15. [Pagina15](https://jancossio.github.io/jcr-ts-TA33-3-Arrays_Objetos-git-281123/pages/ex15_index.html)
